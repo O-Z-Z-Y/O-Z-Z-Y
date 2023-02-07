@@ -23,5 +23,3 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black)
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=Redux&amp;logoColor=white)
 ![](https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=Next.js&amp;logoColor=white)
-<br>
-![](https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=Node.js&amp;logoColor=white)
