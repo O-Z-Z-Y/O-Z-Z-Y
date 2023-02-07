@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Swift&amp;logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white)
 ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=JavaScript&amp;logoColor=black)
 <br>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=HTML5&amp;logoColor=white)
