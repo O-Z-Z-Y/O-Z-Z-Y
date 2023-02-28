@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=Next.js&amp;logoColor=white)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Z-Z-Y&show_icons=true&theme=radical">
-  <img height="180em" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Z-Z-Y&layout=compact&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=O-Z-Z-Y&show_icons=true&theme=radical">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Z-Z-Y&layout=compact&show_icons=true&theme=radical">
 </p>
