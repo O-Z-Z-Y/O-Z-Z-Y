@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Z-Z-Y&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Z-Z-Y&layout=compact&show_icons=true&theme=radical">
+  <img height="180em" width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Z-Z-Y&layout=compact&show_icons=true&theme=radical">
 </p>
