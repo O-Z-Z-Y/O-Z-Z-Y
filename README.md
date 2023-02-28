@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Redux-764ABC?style=flat-square&amp;logo=Redux&amp;logoColor=white)
 ![](https://img.shields.io/badge/Next.js-black?style=flat-square&amp;logo=Next.js&amp;logoColor=white)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=O-Z-Z-Y&show_icons=true&theme=radical&bg_color=42,09203F,537895)](https://github.com/anuraghazra/github-readme-stats)
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=O-Z-Z-Y&show_icons=true&theme=radical&bg_color=42,09203F,537895">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=O-Z-Z-Y&layout=compact&show_icons=true&theme=radical&bg_color=42,09203F,537895">
